@@ -12,6 +12,7 @@ h1{
 section{
 
     display: flex;
+    margin-bottom: 150PX;
 }
 .half-width{
 
@@ -19,7 +20,7 @@ section{
     padding-left: 3%;
 }
 .half-width img{
-    width: 40%;
+    width: 60%;
 }
 .hire{
     font-weight: 700;
@@ -35,4 +36,9 @@ section{
 
     background-image: url(pic/top-banner.png);
     background-repeat: no-repeat;
+}
+.pic2{
+
+    background-image: url(pic/dream-bg.png);
+    background-position: right;
 }
